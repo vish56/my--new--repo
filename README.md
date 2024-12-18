@@ -1,2 +1,2 @@
 # my--new--repo
-Django react project
+MY NEW DJANGO PROJECT
